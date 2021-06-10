@@ -1,0 +1,39 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+    font-size: 45px;
+}
+a{
+    text-decoration: none;
+}
+
+.ADA{
+    color:purple
+
+}
+.sofia{
+    color:salmon
+}
+.maria{
+    color:springgreen
+}
+.maximo{
+    color:royalblue
+}
+.alejandra{
+    color:orange;
+}
+
+.tiempo{
+    font-size: 25px;
+    background-color: #9b9b9b;
+
+}
+
+.espacio{
+    letter-spacing:20px;
+    background-color: #9b9b9b;
+
+}

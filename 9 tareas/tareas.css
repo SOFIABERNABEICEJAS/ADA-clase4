@@ -1,0 +1,23 @@
+html{
+    font-family: 'Stint Ultra Condensed', cursiva;
+}
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 25px;
+}
+
+
+.pendiente{
+    color:blue;
+}
+.haciendo{
+    color:orange;
+}
+.hecho{
+    color:green;
+}
+.cancelada{
+    color:red
+}

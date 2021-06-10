@@ -1,0 +1,25 @@
+
+body{
+    color:black;
+    background: blanchedalmond;
+}
+h1{
+    font-size:xx-large ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .gris{
+    color:dimgray
+}
+a {color:rgb(72, 220, 223);
+    text-decoration: none;
+
+}
+.italica{
+    font-style: italic;
+
+}
+.italic.letra{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
+

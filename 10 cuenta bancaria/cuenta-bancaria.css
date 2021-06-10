@@ -1,0 +1,22 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25;
+}
+.fecha{
+    font-size: 15px;
+    color: #C8C8C8;
+}
+.ingreso{
+    color:green
+}
+.egreso{
+    color:red
+}

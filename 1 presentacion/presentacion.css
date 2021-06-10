@@ -1,0 +1,19 @@
+h1{
+    font-size: 120px;
+    font-weight: 900;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-size: 48px;
+    font-weight: 600;
+    font-family:'Oswald', sans-serif; ;
+}
+.rosa{
+    color:pink
+}
+.amarillo{
+    color:rgb(194, 194, 64)
+}
+.celeste{
+    color:rgb(113, 219, 219)
+}
